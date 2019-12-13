@@ -82,5 +82,7 @@ public class Main {
         System.out.println("Winning Numbers: " + WinNums);
         System.out.println("Jackpot: $" + Jackpot);
         System.out.println("Drawing Date: " + DrawingDate);
+
+        int i = 2;
     }
 }
